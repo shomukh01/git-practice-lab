@@ -27,7 +27,7 @@ A practical repository demonstrating my understanding of Git version control and
 
 ## 📖 Overview
 
-This project represents my hands-on practice in learning Git and GitHub.
+Conflict from main branch
 I applied version control concepts, tracked file changes, and understood how developers manage and collaborate on software projects.
 
 ---
