@@ -27,7 +27,7 @@ A practical repository demonstrating my understanding of Git version control and
 
 ## 📖 Overview
 
-Conflict from main branch
+Conflict resolved
 I applied version control concepts, tracked file changes, and understood how developers manage and collaborate on software projects.
 
 ---
@@ -172,8 +172,6 @@ Used to understand branch structure.
 * Conflict resolution
 * History recovery
 * Collaboration
-
----This change is from dev branch
 
 
 ## ✅ Conclusion
